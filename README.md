@@ -1,1 +1,1 @@
-# Openai
+# OpenAI Whisper
