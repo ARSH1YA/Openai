@@ -6,5 +6,5 @@ This AI-powered application combines
 to create a natural, conversational interface for human-computer interaction. Users can upload images and ask questions about them using voice input, receiving audio responses from the AI. By integrating cutting-edge technologies like OpenAI's Whisper and LLaVA, it demonstrates the potential of multimodal AI in making technology more accessible and intuitive for all users.
 
 # You can check out the blog here:
-- [OpenAI Whisper](https://arshiya.hashnode.dev/git-behind-the-scenes)
+- [OpenAI Whisper](https://arshiya.hashnode.dev/openai-whisper)
 
